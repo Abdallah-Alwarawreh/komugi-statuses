@@ -19,3 +19,5 @@
 
 
 # Note: make sure to test if the json valid from this website: https://jsonlint.com
+
+# affter adding a new status, use /refresh from the komugi bot
